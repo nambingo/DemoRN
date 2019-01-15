@@ -71,7 +71,7 @@ export default class SCanSCreen extends Component {
               paddingHorizontal: 10,
               marginLeft: 20
             }}
-            marginLeft
+            // marginLeft
             placeholder="Tài khoản"
             placeholderTextColor="white"
             autoCorrect={false}
